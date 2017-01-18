@@ -20,3 +20,11 @@ This is a design of a preprocessing framework for cleaning MR images. The framew
 # Results
 <img width="526" alt="results" src="https://cloud.githubusercontent.com/assets/19553239/22058394/bcce0a6e-dd36-11e6-9963-6db623fe910b.png">
 
+
+# Useful Links
+Some example ITK codes can be found in the following:
+http://www.itk.org/ItkSoftwareGuide
+http://itk.org/Wiki/ITK/Examples
+Example code for difference operation on two images: http://itk.org/Wiki/ITK/Examples/ImageProcessing/SquaredDifferenceImageFilter
+ 
+

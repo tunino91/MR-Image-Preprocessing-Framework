@@ -15,3 +15,8 @@ This is a design of a preprocessing framework for cleaning MR images. The framew
 
 
 • Compare processed image with respect to the clean image by differing them, and reporting the mean and standard deviation of the differed image 
+
+
+# Results
+<img width="526" alt="results" src="https://cloud.githubusercontent.com/assets/19553239/22058394/bcce0a6e-dd36-11e6-9963-6db623fe910b.png">
+
